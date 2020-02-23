@@ -1,0 +1,62 @@
+body{
+    background-image: url('photos/2.jpg.');
+    background-color: silver;
+}
+.a{
+    text-decoration:black;
+    text-align: center;
+    font-size: x-large;
+}
+.a1{
+    text-decoration: underline;
+    font-size: larger;
+    color: blue;
+}
+.header{
+    font-size: xx-large;
+    font-style: oblique;
+    color: black;
+    text-align: center;
+}
+img{
+    height: 200px;
+    width: 200px;
+}
+.img{
+    height: 250px;
+    width: 250px;
+}
+.links{
+    font-size: larger;
+    font-style: italic;
+    font-size: 20px;
+    text-decoration: double;
+}
+.js{
+    height: 190px;
+    width: 200px;
+}
+.flash{
+    height: 300px;
+    width: 400px;
+}
+.flash1{
+    width: 200px;
+    height: 125px;
+}
+.gradient1{
+    background-color: silver;
+    border-width: 2px;
+    height: 800px;
+    width: 130px;
+    background: linear-gradient(to left right);
+    background: linear-gradient(to bottom top);
+    background: linear-gradient(to left top);
+    background: linear-gradient(to top left)
+}
+.gradient2{
+    background: radial-gradient(25%, 25%, 25%, 25%);
+    background: radial-gradient(60%, 5%, 35%);
+    background: repeating-linear-gradient(50%, 10%, 40%);
+    background: radial-gradient(20%, 20%, 30%);
+}
