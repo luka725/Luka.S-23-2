@@ -1,0 +1,13 @@
+.table{
+    border:solid 1px;
+    width: 1000px;
+    height: 600px;
+    margin: auto;
+}
+.table td{
+    border: solid 1px
+
+}
+.table3td{
+    border-color: green;
+}
