@@ -12,6 +12,7 @@ body{
 }
 td{
     background-color: grey;
+    text-align: center;
 }
 .grad {
   background-image: linear-gradient(to right, silver , blue);
@@ -26,4 +27,7 @@ hr{
     height: 30px;
     width: 650px;
     background-color: gray;
+}
+font{
+    color: blue;
 }
