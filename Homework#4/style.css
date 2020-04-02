@@ -1,0 +1,29 @@
+body{
+    background-color: silver;
+}
+.table{
+    height: 1100px;
+    width: 950px;
+    margin: center;
+
+}
+.table td, th{
+    border: solid 1px;
+}
+td{
+    background-color: grey;
+}
+.grad {
+  background-image: linear-gradient(to right, silver , blue);
+}
+.p{
+    color: blue;
+    font-size:xx-large;
+    margin-left: 30px;
+    margin-bottom: 90px;
+}
+hr{
+    height: 30px;
+    width: 650px;
+    background-color: gray;
+}
