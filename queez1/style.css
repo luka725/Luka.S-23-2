@@ -1,0 +1,45 @@
+body{
+    margin: center;
+}
+.header{
+    font-size: x-large;
+    margin-right: 100px;
+    
+}
+.border2{
+    border: dotted;
+    border-color: green;
+    text-align: center;
+    width: 900px;
+    height: 20px;
+}
+.shape1{
+    border-bottom: 100px solid;
+    border-left: 100px solid transparent;
+    border-right: 100px solid transparent;
+    height: 0;
+    width: 650px;
+    color: blue;
+}
+.shape2{
+    border-bottom: 100px solid;
+    border-left: 100px solid transparent;
+    border-right: 100px solid transparent;
+    height: 0px;
+    width: 650px;
+    color: green;
+}
+table{
+    border:1px solid;
+    margin: auto;
+    width: 800px;
+    height: 800px;
+    background-color: white;
+}
+td{
+    border:1px solid;
+    width: auto;
+    height: auto;
+    text-align: center;
+}
+
