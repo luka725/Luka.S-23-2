@@ -43,24 +43,14 @@ body{
     border-right: hidden;
     border-bottom: hidden;  
   } 
-.body1{
-    border-style: hidden;
-    width: 900px;
-    height: 2100px;
-    background-color: white;
-    margin: auto;
-    display: flex;
-}
 
 .body{
     border-style: hidden;
     width: 600px;
     height: 2000px;
     background-color: white;
-    padding-bottom: 100px;
-    padding-right: 25px;
-    padding-left: 200px;
-    
+    position: relative;
+    bottom: 1218px;
 }  
 .mtavari{
     border-style: solid;
@@ -69,7 +59,9 @@ body{
     height: 300px;
     border-radius: 30px 30px 30px 30px;
     position: relative;
-    left: 125px;
+    left: 650px;
+    top: 20px;
+
 }
 .siaxleebi{
     border-style: solid;
@@ -78,7 +70,8 @@ body{
     height: 600px;
     border-radius: 30px 30px 30px 30px;
     position: relative;
-    margin-top: 310px;
+    left: 650px;
+    top: 40px;
 }
 .dzebna{
     border-style: solid;
@@ -87,6 +80,13 @@ body{
     height: 300px;
     border-radius: 30px 30px 30px 30px;
     position: relative; 
-    margin-top: 920px;
-    right: 125px;
+    left: 650px;
+    top: 60px;
+}
+.bord{
+    border-style: hidden;
+    height: 2100px;
+    width: 900px;
+    margin: auto;
+    background-color: white;
 }
