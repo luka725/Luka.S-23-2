@@ -1,0 +1,22 @@
+.border{
+    height: 700px;
+    width: 800px;
+    border-style: solid;
+    border-color: lightgreen;
+    background-color: rgb(158, 255, 218);
+    margin: auto;
+    padding: 50px 50px 50px 50px;
+}
+.ps{
+    position: relative;
+    left: 500px;
+    bottom: 60px;
+}
+.ps1{
+    position: relative;
+    bottom: 50px;
+}
+.ps2{
+    position: relative;
+    bottom: 425px;
+}
