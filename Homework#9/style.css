@@ -1,0 +1,27 @@
+body{
+    background: linear-gradient(to right, white, blue);
+}
+table{
+    height: 900px;
+    width: 1200px;
+    border-style: solid;
+    margin: auto;
+    border-width: 0.5px;
+    border-color: gray;
+}
+td{
+    border-style: solid;
+    border-width: 0.5px;
+    border-color: gray;
+}
+tr{
+    border-style: solid;
+    border-width: 0.5px;
+    border-color: gray;
+}
+.st{
+    background-color: mediumturquoise;
+}
+#border:hover{
+    background-color: maroon;
+} 
