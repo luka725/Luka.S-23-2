@@ -1,0 +1,123 @@
+.border{
+    margin: auto;
+    width: 1000px;
+    height: 125px;
+    background-color: hotpink;
+    border-style: solid;
+    position: relative;
+    border-radius: 25px 25px  0px 0px;
+    border-width: 0.5px;
+}
+.border1-1{
+    width: 200px;
+    height: 50px;
+    border-style: hidden;
+    background-color: hotpink;
+    position: relative;
+    left: 770px;
+    bottom: 50px;
+    text-shadow: red;
+
+}
+.login-button{
+    height: 40px;
+    width: 150px;
+    border-radius: 10px 10px 10px 10px;
+    position: relative;
+    top: 45px;
+    right: 425px;
+}
+.border2{
+    height: 600px;
+    width: 1000px;
+    margin: auto;
+    background-color: white;
+    border-style: solid;
+    position: relative;
+    bottom: 15px;
+    border-width: 0.5px;
+}
+.border2-1{
+    height: 599px;
+    width: 250px;
+    position: relative;
+    background-color: rgb(194, 194, 194);
+    border-style: hidden;
+    left: 750px;
+    bottom: 426px;  
+}
+
+.bord1{
+    height: 50px;
+    width: 120px;
+    border-style: solid;
+    position: relative;
+    border-width: 0.5px;
+    top: 150px;
+    left: 80px;
+}
+.bord2{
+    height: 100px;
+    width: 120px;
+    border-style: solid;
+    position: relative;
+    border-width: 0.5px;
+    top: 150px;
+    left: 80px;
+}
+.bord3{
+    height: 50px;
+    width: 400px;
+    border-style: solid;
+    position: relative;
+    border-width: 0.5px;
+    bottom: 53px;
+    left: 200px;
+}
+.bord4{
+    height: 100px;
+    width: 400px;
+    border-style: solid;
+    position: relative;
+    border-width: 0.5px;
+    bottom: 53px;
+    left: 200px;
+}
+.bord5{
+    height: 20px;
+    width: 100px;
+    position: relative;
+    top: 150px;
+    left: 270px;
+}
+
+
+
+.footer{
+    height: 50px;
+    width: 1000px;
+    border-style: solid;
+    background-color: hotpink;
+    margin: auto;
+    position: relative;
+    bottom: 10px;
+    border-radius: 0px 0px 100px 100px;
+    border-width: 0.5px;
+}
+.menu{
+    height: 40px;
+    width: 250px;
+    border-width: 0.5px;
+    background-color: grey;
+    margin: auto;
+}
+#border:hover{
+    background-color: hotpink;
+}
+.text-input{
+    height: 60px;
+    width: 370px;
+    position: relative;
+    top: 18px;
+    left: 10px;
+}
